@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\bin\Debug\Employer Registration System.exe.config
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\bin\Debug\Employer Registration System.exe
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\bin\Debug\Employer Registration System.pdb
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\obj\Debug\Home.csprojAssemblyReference.cache
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\obj\Debug\Employer_Registration_System.Properties.Resources.resources
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\obj\Debug\Home.csproj.GenerateResource.cache
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\obj\Debug\Home.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\obj\Debug\Employer Registration System.exe
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\obj\Debug\Employer Registration System.pdb
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\obj\Debug\Employer_Registration_System.Form1.resources
+c:\users\user\source\repos\Employer Registration System\Employer Registration System\obj\Debug\Employer_Registration_System.add.resources
